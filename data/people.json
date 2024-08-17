@@ -1,0 +1,67 @@
+[
+    {
+        "dni": "12345678A",
+        "name": "Alice Johnson",
+        "address": "221B Baker Street, London, UK",
+        "lastName": "Johnson",
+        "age": 30,
+        "phone": "+44 20 7224 3688",
+        "university": "University College London",
+        "studyNumber": 12345,
+        "graduationYear": 2015,
+        "description": "Data Scientist",
+        "company": "Tech Solutions"
+    },
+    {
+        "dni": "12345678B",
+        "name": "Bob Smith",
+        "address": "1600 Pennsylvania Ave NW, Washington, DC, USA",
+        "lastName": "Smith",
+        "age": 40,
+        "phone": "+1 202-456-1414",
+        "university": "Harvard University",
+        "studyNumber": 67890,
+        "graduationYear": 2010,
+        "description": "Political Analyst",
+        "company": "Government Agency"
+    },
+    {
+        "dni": "12345678C",
+        "name": "Carol White",
+        "address": "1 Infinite Loop, Cupertino, CA, USA",
+        "lastName": "White",
+        "age": 28,
+        "phone": "+1 408-996-1010",
+        "university": "Stanford University",
+        "studyNumber": 11223,
+        "graduationYear": 2018,
+        "description": "Software Engineer",
+        "company": "Apple Inc."
+    },
+    {
+        "dni": "12345678D",
+        "name": "David Brown",
+        "address": "10 Downing Street, London, UK",
+        "lastName": "Brown",
+        "age": 50,
+        "phone": "+44 20 7925 0918",
+        "university": "University of Oxford",
+        "studyNumber": 44556,
+        "graduationYear": 2000,
+        "description": "Economist",
+        "company": "Financial Institution"
+    },
+    {
+        "dni": "12345678E",
+        "name": "Emma Green",
+        "address": "350 5th Ave, New York, NY, USA",
+        "lastName": "Green",
+        "age": 35,
+        "phone": "+1 212-736-3100",
+        "university": "Columbia University",
+        "studyNumber": 78901,
+        "graduationYear": 2012,
+        "description": "Architect",
+        "company": "Design Studio"
+    }
+]

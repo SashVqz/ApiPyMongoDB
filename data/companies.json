@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Tech Solutions",
+        "address": "123 Silicon Valley Blvd, San Jose, CA, USA",
+        "numEmployees": 200
+    },
+    {
+        "name": "Apple Inc.",
+        "address": "1 Infinite Loop, Cupertino, CA, USA",
+        "numEmployees": 147000
+    },
+    {
+        "name": "Google LLC",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA, USA",
+        "numEmployees": 156000
+    },
+    {
+        "name": "Microsoft Corporation",
+        "address": "1 Microsoft Way, Redmond, WA, USA",
+        "numEmployees": 181000
+    },
+    {
+        "name": "Amazon.com, Inc.",
+        "address": "410 Terry Avenue North, Seattle, WA, USA",
+        "numEmployees": 1400000
+    }
+]

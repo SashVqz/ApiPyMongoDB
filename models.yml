@@ -1,0 +1,31 @@
+person:
+  requiredVars:
+    - dni
+    - name
+    - address
+  admissibleVars:
+    - _id
+    - lastName
+    - age
+    - phone
+    - university
+    - studyNumber
+    - graduationYear
+    - description
+    - company
+
+company:
+  requiredVars:
+    - name
+    - address
+  admissibleVars:
+    - _id
+    - numEmployees
+
+educationalInstitution:
+  requiredVars:
+    - name
+    - address
+  admissibleVars:
+    - _id
+    - numStudents

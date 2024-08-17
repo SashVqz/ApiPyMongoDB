@@ -1,0 +1,27 @@
+[
+    {
+        "name": "University College London",
+        "address": "Gower St, London WC1E 6BT, UK",
+        "numStudents": 45000
+    },
+    {
+        "name": "Harvard University",
+        "address": "Cambridge, MA 02138, USA",
+        "numStudents": 21000
+    },
+    {
+        "name": "Stanford University",
+        "address": "450 Serra Mall, Stanford, CA, USA",
+        "numStudents": 16000
+    },
+    {
+        "name": "University of Oxford",
+        "address": "University Parks, Oxford OX1 3PQ, UK",
+        "numStudents": 24000
+    },
+    {
+        "name": "Columbia University",
+        "address": "116th St & Broadway, New York, NY 10027, USA",
+        "numStudents": 30000
+    }
+]
