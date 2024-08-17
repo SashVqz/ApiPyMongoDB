@@ -3,7 +3,6 @@ import json
 from model import initApp
 from queries import Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15
 
-# Dictionary mapping model names to their respective JSON files
 fileMap = {
     "person": "people.json",
     "company": "companies.json",
